@@ -1,5 +1,5 @@
-##Livro de receitas
+Livro de receitas
 
-#####Ola ! Bem vindo ao meu livro de receitas:
+Ola ! Bem vindo ao meu livro de receitas:
 
-_? Strogonoff_
+1? - Strogonoff
